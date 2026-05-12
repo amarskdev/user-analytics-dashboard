@@ -3,7 +3,8 @@ import { Event } from "@/types/event";
 import { Session } from "@/types/session";
 
 const API_BASE =
-  process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000/api/v1";
+  process.env.NEXT_PUBLIC_API_URL ||
+  "https://user-analytics-api.onrender.com/api/v1";
 
 export async function getSessions(
   page: number = 1,

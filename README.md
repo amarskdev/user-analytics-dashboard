@@ -59,7 +59,7 @@ Analytics Dashboard (Next.js)
 Repository:
 
 ```bash
-user-analytics-api (https://github.com/amarkumar55/user-analytics-api)
+user-analytics-api (https://github.com/amarskdev/user-analytics-api)
 ```
 
 Tech Stack:
@@ -87,7 +87,7 @@ Features:
 Repository:
 
 ```bash
-user-analytics-dashboard (https://github.com/amarkumar55/user-analytics-dashboard)
+user-analytics-dashboard (https://github.com/amarskdev/user-analytics-dashboard)
 ```
 
 Tech Stack:
@@ -113,7 +113,7 @@ Features:
 Repository:
 
 ```bash
-user-analytics-demo-site (https://github.com/amarkumar55/user-analytics-demo-site)
+user-analytics-demo-site (https://github.com/amarskdev/user-analytics-demo-site)
 ```
 
 Tech Stack:
@@ -249,13 +249,13 @@ Compound indexes improve:
 
 ```bash
 # Backend
-https://github.com/amarkumar55/user-analytics-api
+https://github.com/amarskdev/user-analytics-api
 
 # Dashboard
-https://github.com/amarkumar55/user-analytics-dashboard
+https://github.com/amarskdev/user-analytics-dashboard
 
 # Demo Site
-https://github.com/amarkumar55/user-analytics-demo-site
+https://github.com/amarskdev/user-analytics-demo-site
 ```
 
 ---
@@ -414,14 +414,26 @@ Suggested screenshots:
 
 ---
 
-# Author
+## 🤝 Connect With Me
 
-Amar Kumar
 
-Senior Software Engineer
+<div align="center">
 
-Linkedin: https://www.linkedin.com/in/amarkumar241429017/
+### 👤 About the Author
 
-GitHub: https://github.com/amarkumar55
+**Amar Kumar**  
+*Senior Backend Engineer · IBM Certified AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarskdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarskdev)
+[![GitHub](https://img.shields.io/badge/GitHub-amarskdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarskdev)
+[![Gmail](https://img.shields.io/badge/Gmail-amarsk.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarsk.dev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amarskdev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/amarskdev)
+[![Instagram](https://img.shields.io/badge/Instagram-amarsk.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amarsk.dev/)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/amarskdev/)
+
+*If you found this project useful, consider giving it a ⭐ — it means a lot!*
+
+</div>
+
 
 
